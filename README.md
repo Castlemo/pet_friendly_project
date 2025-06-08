@@ -63,12 +63,3 @@
 ## 📜 참고
 	•	본 프로젝트는 `서울열린데이터광장`의 공공데이터를 활용하였습니다.
 	•	시각화 결과 및 인사이트는 Notebook 내부에서 확인 가능합니다.
-
-## 🔄 실행 방법
-
-```python
-# 의존성 설치 (필요시)
-pip install -r requirements.txt
-
-# Jupyter Notebook 실행
-jupyter notebook
